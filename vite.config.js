@@ -8,5 +8,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: './', // Use relative paths for GitHub Pages
+  base: '/Designer-Genes-2025-2026-Practice/',
 })
